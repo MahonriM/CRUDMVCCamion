@@ -1,0 +1,5 @@
+c:\users\chumo\documents\visual studio 2010\Projects\MvcCamion\MvcCamion\bin\MvcCamion.dll
+c:\users\chumo\documents\visual studio 2010\Projects\MvcCamion\MvcCamion\bin\MvcCamion.pdb
+c:\users\chumo\documents\visual studio 2010\Projects\MvcCamion\MvcCamion\obj\Debug\MvcCamion.csprojResolveAssemblyReference.cache
+c:\users\chumo\documents\visual studio 2010\Projects\MvcCamion\MvcCamion\obj\Debug\MvcCamion.dll
+c:\users\chumo\documents\visual studio 2010\Projects\MvcCamion\MvcCamion\obj\Debug\MvcCamion.pdb
